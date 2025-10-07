@@ -1,6 +1,6 @@
 ## Tutorial: ERC20 with Foundry (Build, Test, Deploy, Interact)
 
-This repository accompanies a YouTube walkthrough showing how to use Foundry to develop, test, deploy, and interact with a simple ERC20 token. The token is `DiamondToken (DMT)`, based on OpenZeppelin, with owner-only minting and burn support.
+This repository accompanies a [YouTube tutorial](https://www.youtube.com/watch?v=uzUM-aYv9sI) showing how to use Foundry to develop, test, deploy, and interact with a simple ERC20 token. The token is `DiamondToken (DMT)`, based on OpenZeppelin, with owner-only minting and burn support.
 
 ### What you’ll learn
 - **Build** a Solidity project with Foundry
